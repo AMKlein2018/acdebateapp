@@ -30,6 +30,8 @@ gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 # Use Capistrano for deployment
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
+gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
+gem 'devise-bootstrap-views'
 
 # gem 'capistrano-rails', group: :development
 
